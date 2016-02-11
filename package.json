@@ -31,7 +31,7 @@
   "dependencies": {
     "boutique": "^0.1.7",
     "gulp-util": "^3.0.4",
-    "protagonist": "^0.19.3"
+    "protagonist": "^1.2.2"
   },
   "devDependencies": {
     "lab": "^5.8.0",
